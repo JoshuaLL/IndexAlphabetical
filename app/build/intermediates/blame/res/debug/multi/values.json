@@ -1,0 +1,85 @@
+[
+    {
+        "outputFile": "/Users/joshualiu/Desktop/workspace/joshua_demo/Demo_IndexAlphabeticalListView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 244,
+                    "endColumn": 19,
+                    "endOffset": 7798
+                },
+                "from": {
+                    "file": "/Users/joshualiu/Desktop/workspace/joshua_demo/Demo_IndexAlphabeticalListView/app/src/main/res/values/countries_array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 244,
+                        "endColumn": 19,
+                        "endOffset": 7798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 7803,
+                    "endColumn": 54,
+                    "endOffset": 7853
+                },
+                "from": {
+                    "file": "/Users/joshualiu/Desktop/workspace/joshua_demo/Demo_IndexAlphabeticalListView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 54,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 7858,
+                    "endColumn": 39,
+                    "endOffset": 7893
+                },
+                "from": {
+                    "file": "/Users/joshualiu/Desktop/workspace/joshua_demo/Demo_IndexAlphabeticalListView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 7898,
+                    "endColumn": 77,
+                    "endOffset": 7971
+                },
+                "from": {
+                    "file": "/Users/joshualiu/Desktop/workspace/joshua_demo/Demo_IndexAlphabeticalListView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 77,
+                        "endOffset": 223
+                    }
+                }
+            }
+        ]
+    }
+]
